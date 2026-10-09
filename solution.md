@@ -1,4 +1,4 @@
-\## Steps to the solution
+## Steps to the solution
 
 Each tap has an initial velocity and acceleration. The solution calculates the volume of water contributed by each active tap using the formula:
 
@@ -14,7 +14,7 @@ The implementation also tracks the number of times each tap runs, subject to the
 
 
 
-\*\*The edge cases are not implemented\*\*  
+## The edge cases are not implemented
 
 Limitations: the edge cases are documented in the test cases, but not implemented in the code
 
