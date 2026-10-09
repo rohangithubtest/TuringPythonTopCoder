@@ -1,4 +1,4 @@
-\*\*Initial exploration\*\*
+\*\*Initial exploration\*\*  
 I started with a card problem where we would choose cards  
 ace, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, jack, queen, king of spades  
 now place 3 cards to the bottom (for a-c-e)  
@@ -11,7 +11,7 @@ however I found this was available in the internet
 
 
 
-\*\*Next problem exploration\*\*
+\*\*Next problem exploration\*\*  
 
 So I started out with a bathtub solution where there would be multiple taps with varying velocities and accelerations  
 Initially I started with all taps running. But since this might be too simplistic, I used only a few subset to be active at a time.  
@@ -19,7 +19,7 @@ I experimented with whether a fixed duration as a break after which the tap woul
 
 
 
-\*\*Full requirements\*\*
+\*\*Full requirements\*\*  
 
 Finally, I decided on this prompt (the requirement given to qwen) -  
 given a bathtub -  
