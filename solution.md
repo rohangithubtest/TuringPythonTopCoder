@@ -1,4 +1,4 @@
-\*\*Steps to the solution\*\*  
+\## Steps to the solution
 
 Each tap has an initial velocity and acceleration. The solution calculates the volume of water contributed by each active tap using the formula:
 
