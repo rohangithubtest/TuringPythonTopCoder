@@ -1,3 +1,4 @@
+**Prompt given to qwen**
 given a bathtub -  
 given a number of taps as input ( <= 10)  
 given an initial acceleration and velocity for each tap  
